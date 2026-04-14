@@ -1,0 +1,15 @@
+Para que lo veas claro en tu tesis, así queda la lista final ordenada por importancia y flujo:
+
+Catálogo: (El cimiento de todo).OK
+
+Compras y Proveedores: (Cómo entra el material).
+
+Pagos a Proveedores: (Cómo salimos de la deuda).
+
+Producción a Pedido: (El corazón industrial).
+
+Ventas y Facturación: (Cómo generamos ingresos).OK
+
+Logística y Envíos: (Cómo entregamos el valor). OK
+
+Cancelaciones: (El control de excepciones).
