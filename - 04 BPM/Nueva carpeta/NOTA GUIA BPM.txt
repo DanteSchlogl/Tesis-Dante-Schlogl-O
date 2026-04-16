@@ -4,7 +4,7 @@ Catálogo: (El cimiento de todo).OK
 
 Compras y Proveedores: (Cómo entra el material).ok
 
-Pagos a Proveedores: (Cómo salimos de la deuda).
+Pagos a Proveedores: (Cómo salimos de la deuda).ok
 
 
 Ventas y Facturación: (Cómo generamos ingresos).OK
@@ -12,3 +12,5 @@ Ventas y Facturación: (Cómo generamos ingresos).OK
 Logística y Envíos: (Cómo entregamos el valor). OK
 
 Cancelaciones: (El control de excepciones).OK
+
+Estado crediticio (Si tiene deuda o no)
